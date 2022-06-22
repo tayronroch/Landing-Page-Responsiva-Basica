@@ -2,6 +2,7 @@
 
 
 Treinando fundamentos de HTML e CSS.
+Landing Page Adaptada para funcionar responsivamente em dispositivos moveis.
 
 
 
